@@ -21,8 +21,8 @@ Then add **hubot-giffetteria** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> giffetteria ciao
+hubot>> http://giffetteria.it/archivio/dottorzivago21.gif
 ```
 
 ## NPM Module
