@@ -1,7 +1,7 @@
 {
   "name": "hubot-giffetteria",
   "description": "A hubot script to query giffeteria.it",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Riccardo Magliocchetti <riccardo.magliocchetti@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, hubot-scripts, giffetteria.it, gif, giffetteria",
