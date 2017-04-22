@@ -1,6 +1,6 @@
 # hubot-giffetteria
 
-A hubot script to query giffeteria.it
+A hubot script to query giffetteria.it
 
 See [`src/giffetteria.coffee`](src/giffetteria.coffee) for full documentation.
 

@@ -1,5 +1,5 @@
 # Description
-#   A hubot script to query giffeteria.it
+#   A hubot script to query giffetteria.it
 #
 # Configuration:
 #   LIST_OF_ENV_VARS_TO_SET

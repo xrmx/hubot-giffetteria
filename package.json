@@ -1,6 +1,6 @@
 {
   "name": "hubot-giffetteria",
-  "description": "A hubot script to query giffeteria.it",
+  "description": "A hubot script to query giffetteria.it",
   "version": "0.1.1",
   "author": "Riccardo Magliocchetti <riccardo.magliocchetti@gmail.com>",
   "license": "MIT",
